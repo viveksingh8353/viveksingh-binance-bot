@@ -1,0 +1,4 @@
+2025-10-24 11:27:39,050 - INFO - Market Order Placed: {'symbol': 'BTCUSDT', 'orderId': 459050, 'status': 'FILLED', 'side': 'BUY', 'type': 'MARKET', 'origQty': '0.01', 'price': '0', 'executedQty': '0.01', 'mock': True}
+2025-10-24 11:27:42,223 - INFO - Market Order Placed: {'symbol': 'BTCUSDT', 'orderId': 462223, 'status': 'FILLED', 'side': 'BUY', 'type': 'MARKET', 'origQty': '0.01', 'price': '0', 'executedQty': '0.01', 'mock': True}
+2025-10-24 11:27:45,605 - INFO - Market Order Placed: {'symbol': 'BTCUSDT', 'orderId': 465605, 'status': 'FILLED', 'side': 'BUY', 'type': 'MARKET', 'origQty': '0.01', 'price': '0', 'executedQty': '0.01', 'mock': True}
+2025-10-24 11:30:13,481 - INFO - Market Order Placed: {'symbol': 'BTCUSDT', 'orderId': 613481, 'status': 'FILLED', 'side': 'BUY', 'type': 'MARKET', 'origQty': '0.01', 'price': '0', 'executedQty': '0.01', 'mock': True}
